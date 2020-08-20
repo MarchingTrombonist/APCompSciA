@@ -1,0 +1,14 @@
+What is difference between a float and a double? 
+	A float has few digits.
+
+What is the integer wrapper class? 
+	Integer
+
+What others can be a wrapper class? 
+	Double, Boolean, and Character all beginning with a capital letter.
+
+What is autoboxing? 
+	A shorter way to create a wrapper class since java 5.
+
+Provide an example of the old way to create a Wrapper Class.
+	Integer i = new Integer(i);

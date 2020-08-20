@@ -1,0 +1,26 @@
+New folder
+	mkdir newfolder
+
+New file
+	cat > newfile
+
+Copy file
+	cp old new
+
+Rename file
+	mv file newname
+
+Delete file
+	rm file
+
+Delete empty folder
+	rm -r folder
+
+Delete full folder
+	rmdir folder
+
+Clear screen
+	clear
+
+Read file
+	cat file
